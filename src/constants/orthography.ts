@@ -26,9 +26,6 @@ export const ORTHOGRAPHY = [
   'ts',
   'w',
   'y',
-  's',
-  't',
-  'ts',
   'ʔ',
 ]
 
